@@ -1,0 +1,27 @@
+.TileStyle{font-family: Arial; font-size: 35px; font-weight: bold; color: #FFFFFF}
+.LoginStatusStyle{font-family: Arial; font-size: 18px; color: #FFFFFF}
+.ButtonStyle{font-weight: bold;font-size: 10px; color: #1C3596; width:60px; font-family: Tahoma; height: 20px; border: 1px solid #7BA4E6; background-image: url('../images/buttonbg.gif')}
+.ButtonAutoSizeStyle{font-weight: bold;font-size: 10px; color: #1C3596; font-family: Tahoma; height: 20px; border: 1px solid #7BA4E6; background-image: url('../images/buttonbg.gif')}
+.TextBoxStyle{color: #1C3596; font-family: Tahoma; border: 1px solid #7F9DB9; padding-left: 4; padding-right: 4; padding-top: 1; padding-bottom: 1; font-size: 10pt}
+.ReadOnlyTextBoxStyle{color: #1C3596; font-family: Tahoma; border: 1px solid #7F9DB9; padding-left: 4; padding-right: 4; padding-top: 1; padding-bottom: 1; background-color: #FFFFD2; font-size: 10pt}
+.ErrorLabelStyle{font-family: Tahoma; font-size: 10pt;color: #FF0000; border: 1px solid #E3EFFF; background-color: #E3EFFF}
+.ComboBoxStyle{color: #1C3596; font-family: Tahoma; border: 1px solid #7F9DB9; padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0; font-size: 10pt}
+.ListBoxStyle{color: #1C3596; font-family: Tahoma; border: 1px solid #7F9DB9; padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0; font-size: 10pt}
+
+.ErrMsg{font-family: Tahoma; font-size: 10pt; color: #FF0000;font-style: italic}
+.PageBody{margin-top:0; margin-left:0; margin-right:0; margin-bottom:0; background-color:"#84BFE9"}
+.Label{font-family: Tahoma; font-size: 10pt; color: #1C3596}
+.Button{font-weight: bold;font-size: 10px; color: #1C3596; width: 60px; font-family: Tahoma; height: 20px; border: 1px solid #7BA4E6; background-image: url('../images/buttonbg.gif')}
+.TableBorderFrm{border-collapse: collapse}
+.CellBorderCaptionFrm{border: 1px solid #95B4EA; padding-left: 4px; padding-right: 4px; padding-top: 1px; padding-bottom: 1px; background-image: url('../images/captionbg.gif');font-family: Tahoma; font-size: 10pt; color: #1C3596; font-weight: bold}
+.CellBorderFrm{border: 1px solid #95B4EA; padding-left: 4px; padding-right: 4px; padding-top: 1px; padding-bottom: 1px; background-color:#E3EFFF}
+.BorderTable{border-collapse: collapse}
+.HeaderTable{border: 1px solid #95B4EA; padding-left: 4px; padding-right: 4px; padding-top: 1px; padding-bottom: 1px; background-image:url('../images/tableheaderbg.gif');font-family: Tahoma; font-size: 10pt; color: #1C3596; font-weight: bold}
+.OddTableRow{border: 1px solid #95B4EA; padding-left: 4px; padding-right: 4px; padding-top: 1px; padding-bottom: 1px; background-color:#E3EFFF;font-family: Tahoma; font-size: 10pt; color: #1C3596}
+.EvenTableRow{border: 1px solid #95B4EA; padding-left: 4px; padding-right: 4px; padding-top: 1px; padding-bottom: 1px; background-color:#FFFFFF;font-family: Tahoma; font-size: 10pt; color: #1C3596}
+.MenuBorder{border: 1px solid #ECF5FC; padding-left: 0px; padding-right: 0px; padding-top: 0px; padding-bottom: 0px; background-color:#F4F9FD}
+.OddTableRowBG{background-color:#E3EFFF}
+.EvenTableRowBG{background-color:#FFFFFF}
+.CellBorder{border: 1px solid #95B4EA; padding-left: 4px; padding-right: 4px; padding-top: 1px; padding-bottom: 1px}
+.LinkTextStyle{text-decoration: none; font-weight: bold; font-size: 12px; color: #1C3596;font-family: Tahoma}
+.ListTitle{font-family: Tahoma; font-size: 12pt; color: #1C3596; font-weight: bold}
